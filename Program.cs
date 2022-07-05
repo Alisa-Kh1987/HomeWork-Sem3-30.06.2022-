@@ -67,5 +67,20 @@
 //  Console.WriteLine ("Число не явлется палиндромом");
 //}
 
+//Задача 21
+//Напишите программу, которая принимает на вход координаты двух точек и находит расстояние между ними в 3D пространстве.
 
+//Console.WriteLine("Введдите Ax");
+//int Ax = Convert.ToInt32(Console.ReadLine());
+//Console.WriteLine("Введдите Ay");
+//int Ay = Convert.ToInt32(Console.ReadLine());
+//Console.WriteLine("Введдите Az");
+//int Az = Convert.ToInt32(Console.ReadLine());
+//Console.WriteLine("Введите Bx");
+//int Bx = Convert.ToInt32(Console.ReadLine());
+//Console.WriteLine("Введдите By");
+//int By = Convert.ToInt32(Console.ReadLine());
+//Console.WriteLine("Введдите Bz");
+//int Bz = Convert.ToInt32(Console.ReadLine());
+//Console.WriteLine(Math.Sqrt((Ax-Bx)*(Ax-Bx) + (Ay-By)*(Ay-By) + (Az-Bz)*(Az-Bz))); 
 
