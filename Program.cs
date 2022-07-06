@@ -84,3 +84,17 @@
 //int Bz = Convert.ToInt32(Console.ReadLine());
 //Console.WriteLine(Math.Sqrt((Ax-Bx)*(Ax-Bx) + (Ay-By)*(Ay-By) + (Az-Bz)*(Az-Bz))); 
 
+//Задача 23
+//Напишите программу, которая принимает на вход число (N) и выдаёт таблицу кубов чисел от 1 до N.
+
+//Console.WriteLine("Input N");
+//int N = Convert.ToInt32(Console.ReadLine());
+//Console.Write(N + " -> ");
+//if (N > 0)
+//{for (int current = 1; current <= N; current++)
+//Console.Write(Math.Pow(current, 3) + " ");
+//}
+//else
+//  {for (int current = 1; current >= N; current--)
+//  Console.Write(Math.Pow(current,3) + " ");
+//}
